@@ -28,7 +28,7 @@ class TransactionController extends Controller
 		->where('staffs.staff_name', "!=" , null)
 		->where('customers.customer_name', "!=" , null)
 		->get();
-		
+  
     $data = array();
     $no = $request->start;
     foreach ($list as $item) {
