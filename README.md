@@ -1,6 +1,5 @@
 <p align="center" ><img height="400px" src="https://github.com/perdianto27/hcs-transaction/blob/master/public/images/front.jpg"> </p>
 <br>
-<p align="center" ><img height="400px" src="https://github.com/perdianto27/hcs-transaction/blob/master/public/images/reportcsv.jpg"> </p>
 
 # Tech :
 - PHP 7
